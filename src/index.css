@@ -1,0 +1,60 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+body {
+  background: #789;
+}
+
+.clear{
+  clear:both;
+}
+
+/* search form */
+
+#search{
+  background: #fff;
+  padding:2%;
+  border-bottom:5px solid #789;
+  max-width:100%;
+}
+
+#search #search-input{
+  padding:5px;
+  border:1px solid #eee;
+  display:block;
+  width:96%;
+}
+
+/* users list */
+
+#users-list{
+  background: #fff;
+  padding: 10px;
+}
+
+.user{
+  border-bottom:1px solid #ddd;
+  padding: 5px 10px;
+}
+
+.user img{
+  width: 50px;
+  float:left;
+}
+
+.user .user-data{
+  float:left;
+  margin-left: 15px;
+}
+
+.user h2{
+  color: #789;
+  font: 12pt Arial;
+  margin: 5px 0;
+}
+.user p{
+  color: #789;
+  font: 10pt Arial;
+}
