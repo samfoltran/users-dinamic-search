@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "name": "Jackson",
+            "age": 25,
+            "picture": "pictures/jackson.png"
+        },
+        {
+            "name": "Jose",
+            "age": 25,
+            "picture": "pictures/jose.png"
+        },
+        {
+            "name": "Theo",
+            "age": 25,
+            "picture": "pictures/theo.png"
+        },
+    
+        {
+            "name": "Julia",
+            "age": 25,
+            "picture": "pictures/julia.png"
+        },
+        {
+            "name": "Maria",
+            "age": 25,
+            "picture": "pictures/maria.png"
+        },
+        {
+            "name": "Rebeca",
+            "age": 25,
+            "picture": "pictures/rebeca.png"
+        }
+    ]
+}
